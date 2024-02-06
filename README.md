@@ -1,1 +1,24 @@
-# Leetcode_SQL
+<h2>Leetcode_SQL_Submissions</h2>
+Link to Leetcode Profile: <a href="https://leetcode.com/gridAditya/">gridAditya</a>
+1:<a href="https://leetcode.com/submissions/detail/1154510918/">Combine Two Tables</a>
+2:<a href="https://leetcode.com/submissions/detail/1154535858/">Second Highest Salary</a>
+3:<a href="https://leetcode.com/submissions/detail/1155365647/">Nth Highest Salary</a>
+4:<a href="https://leetcode.com/submissions/detail/1155391724/">Rank Scores</a>
+5:<a href="https://leetcode.com/submissions/detail/1155402094/">Consecutive Numbers</a>
+6:<a href="https://leetcode.com/submissions/detail/1155407752/">Employees Earning More than their Managers</a>
+7:<a href="https://leetcode.com/submissions/detail/1156331489/">Duplicate Emails</a>
+8:<a href="https://leetcode.com/submissions/detail/1156327557/">Customer Who Never Order</a>
+9:<a href="https://leetcode.com/submissions/detail/1157364684/">Exchange Seats</a>
+10:<a href="https://leetcode.com/submissions/detail/1156351204/">Department Highest Salary</a>
+11:<a href="https://leetcode.com/submissions/detail/1157359409/">Swap Salary</a>
+12:<a href="https://leetcode.com/submissions/detail/1166528451/">Recylable and Low Fat Products</a>
+13:<a href="https://leetcode.com/submissions/detail/1166529834/">Find Customer Refree</a>
+14:<a href="https://leetcode.com/submissions/detail/1166531946/">Replace Employee Id with the Unique Identifier</a>
+15:<a href="https://leetcode.com/submissions/detail/1166534215/">Product Sale Analysis I</a>
+16:<a href="https://leetcode.com/submissions/detail/1166597211/">Student and Examinations</a>
+17:<a href="https://leetcode.com/submissions/detail/1166599614/">Managers with atleast 5 direct Reports</a>
+18:<a href="https://leetcode.com/submissions/detail/1166606245/">Confirmation Rate</a>
+19:<a href="https://leetcode.com/submissions/detail/1166612614/">Not Boring Movies</a>
+20:<a href="https://leetcode.com/submissions/detail/1166632119/">Average  Selling Price</a>
+21:<a href="https://leetcode.com/submissions/detail/1167453288/">Monthly Transactions I</a>
+22:<a href="https://leetcode.com/submissions/detail/1167466943/">Immediate Food Delivery II</a>
