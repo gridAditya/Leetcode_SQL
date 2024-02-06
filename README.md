@@ -1,5 +1,5 @@
 <h2>Leetcode_SQL_Submissions</h2>
-Link to Leetcode Profile: <a href="https://leetcode.com/gridAditya/">gridAditya</a><br>
+Link to Leetcode Profile: <a href="https://leetcode.com/gridAditya/">gridAditya</a><br><br>
 1:<a href="https://leetcode.com/submissions/detail/1154510918/">Combine Two Tables</a><br>
 2:<a href="https://leetcode.com/submissions/detail/1154535858/">Second Highest Salary</a><br>
 3:<a href="https://leetcode.com/submissions/detail/1155365647/">Nth Highest Salary</a><br>
